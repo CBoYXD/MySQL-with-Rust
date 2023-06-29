@@ -1,4 +1,4 @@
 /target
 .env
-src/db_queries/sql_query.sql
+src/examples/sql_query.sql
 .vscode/
