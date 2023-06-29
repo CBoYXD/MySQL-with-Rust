@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 mysql = "24.0.0"
+dotenv = "0.15.0"
