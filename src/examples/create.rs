@@ -6,7 +6,7 @@ use mysql::{*, prelude::Queryable};
     user_id: i32,
     user_fullname: String,
     have_username: bool,
-    langs: Vec<String>
+    lang: String
 } */
 
 
